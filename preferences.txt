@@ -1,0 +1,5 @@
+preference( movie: The Gentlmen,
+            serial: The Great,
+            food: seafood,
+            time of the year: summer,
+            visit:USA)
