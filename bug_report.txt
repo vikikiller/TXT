@@ -1,1 +1,11 @@
-
+bug_report: 
+ 1)summary - Login_Error_messages_in_the_login_form_are_displayed_in_England.
+ 2)environment - All_browsers/devices.
+ 3)severity - major.
+ 4)steps_to_reproduse: open front end https://www.test-sklep.be:8443/",
+                       follow inloggen link,
+                       fill required fields with invalid data,
+                       click inloggen button,
+                       pay attention to error messages.
+ 6)actual_result - Error messages in the login form are displayed in English".
+ 7)expected_result - Error messages in the login form are displayed in the chosen language.
