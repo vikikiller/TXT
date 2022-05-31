@@ -1,5 +1,5 @@
 Bug_report: 
-Summary: (bold)__Login Error messages in the login form are displayed in England.
+Summary: Login Error messages in the login form are displayed in England.
 Environment: All browsers/devices.
 Severity: major.
 Steps to reproduse: 
