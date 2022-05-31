@@ -1,7 +1,6 @@
 student:
-1.name:Vika,
-2.lastName:Dziadovich,
-3.patronymic:Viktorovna,
-4.pets:null,
-5.salary:300.
-
+ name:Vika,
+ lastName:Dziadovich,
+ patronymic:Viktorovna,
+ pets:null,
+ salary:300.
