@@ -1,12 +1,12 @@
-__Bug_report: (bold)__
-__summary: (bold)__Login Error messages in the login form are displayed in England.
-- environment - All browsers/devices.
-- severity - major.
-- steps to reproduse: 
+Bug_report: 
+Summary: (bold)__Login Error messages in the login form are displayed in England.
+Environment: All browsers/devices.
+Severity: major.
+Steps to reproduse: 
      1. open front end https://www.test-sklep.be:8443/",
      2. follow inloggen link,
      3. fill required fields with invalid data,
      4. click inloggen button,
      5. pay attention to error messages.
-- actual result - Error messages in the login form are displayed in English".
-- expected result - Error messages in the login form are displayed in the chosen language.
+Actual result: Error messages in the login form are displayed in English".
+Expected result: Error messages in the login form are displayed in the chosen language.
